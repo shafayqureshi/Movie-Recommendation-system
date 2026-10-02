@@ -1,0 +1,16 @@
+# Dataset
+ratings.csv
+movies.csv
+ml-32m/
+movie_data/
+
+# Generated model/cache
+itemcf_model.npz
+itemcf_meta.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
